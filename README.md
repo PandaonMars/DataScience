@@ -1,2 +1,2 @@
 # DataScience
-# Projects from Numerdox data science
+Projects from Numerdox data science
